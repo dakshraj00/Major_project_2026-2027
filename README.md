@@ -85,8 +85,8 @@ python app.py
 | Member | Role |
 |---|---|
 | Daksh Raj Chauhan | RAG architecture, pipeline design, hybrid retrieval |
-| — | Dataset collection & preprocessing |
-| — | Frontend/chat interface & evaluation |
+| Aditya | Dataset collection & preprocessing |
+| Anirudh | Frontend/chat interface & evaluation |
 
 **Supervisor:** Mr. Shankar Kumar Jha
 
