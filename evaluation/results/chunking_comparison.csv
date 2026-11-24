@@ -1,0 +1,7 @@
+strategy,retrieval,hit@1,hit@3,MRR,avg_ctx_chars
+fixed,vector,0.733,0.8,0.767,2159
+fixed,hybrid,0.733,0.733,0.733,2137
+semantic,vector,0.667,0.8,0.733,1563
+semantic,hybrid,0.8,0.8,0.8,1714
+hierarchical,vector,1.0,1.0,1.0,1120
+hierarchical,hybrid,1.0,1.0,1.0,1167
